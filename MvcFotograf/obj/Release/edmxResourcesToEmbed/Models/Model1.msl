@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MvcFotografModelStoreContainer" CdmEntityContainer="MvcFotografEntities3">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="MvcFotografModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLADMIN">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLADMIN">
+        <MappingFragment StoreEntitySet="TBLADMIN">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KULLANICIADI" ColumnName="KULLANICIADI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="SIFRE" ColumnName="SIFRE" />
+          <ScalarProperty Name="ADSOYAD" ColumnName="ADSOYAD" />
+          <ScalarProperty Name="CINSIYET" ColumnName="CINSIYET" />
+          <ScalarProperty Name="YASADIGISEHIR" ColumnName="YASADIGISEHIR" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+          <ScalarProperty Name="YETKİ" ColumnName="YETKİ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLBLOG">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLBLOG">
+        <MappingFragment StoreEntitySet="TBLBLOG">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BASLIK" ColumnName="BASLIK" />
+          <ScalarProperty Name="ICERIK" ColumnName="ICERIK" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLBLOGYORUM">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLBLOGYORUM">
+        <MappingFragment StoreEntitySet="TBLBLOGYORUM">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BLOGID" ColumnName="BLOGID" />
+          <ScalarProperty Name="ADSOYAD" ColumnName="ADSOYAD" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="TARIH" ColumnName="TARIH" />
+          <ScalarProperty Name="YORUM" ColumnName="YORUM" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLGALERI">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLGALERI">
+        <MappingFragment StoreEntitySet="TBLGALERI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLHAKKIMIZDA">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLHAKKIMIZDA">
+        <MappingFragment StoreEntitySet="TBLHAKKIMIZDA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BASLIK" ColumnName="BASLIK" />
+          <ScalarProperty Name="ICERIK" ColumnName="ICERIK" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLILETISIM">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLILETISIM">
+        <MappingFragment StoreEntitySet="TBLILETISIM">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ADRES" ColumnName="ADRES" />
+          <ScalarProperty Name="TELEFON" ColumnName="TELEFON" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLKATEGORI">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLKATEGORI">
+        <MappingFragment StoreEntitySet="TBLKATEGORI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ACIKLAMA" ColumnName="ACIKLAMA" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLPERSONEL">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLPERSONEL">
+        <MappingFragment StoreEntitySet="TBLPERSONEL">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ADSOYAD" ColumnName="ADSOYAD" />
+          <ScalarProperty Name="MESLEK" ColumnName="MESLEK" />
+          <ScalarProperty Name="INSTAGRAM" ColumnName="INSTAGRAM" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLPROJE">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLPROJE">
+        <MappingFragment StoreEntitySet="TBLPROJE">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="PROJEADI" ColumnName="PROJEADI" />
+          <ScalarProperty Name="PROJEOZET" ColumnName="PROJEOZET" />
+          <ScalarProperty Name="PROJE" ColumnName="PROJE" />
+          <ScalarProperty Name="TARIH" ColumnName="TARIH" />
+          <ScalarProperty Name="OKUNMASAYISI" ColumnName="OKUNMASAYISI" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLSLIDER">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLSLIDER">
+        <MappingFragment StoreEntitySet="TBLSLIDER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+          <ScalarProperty Name="BASLIK" ColumnName="BASLIK" />
+          <ScalarProperty Name="ACIKLAMA" ColumnName="ACIKLAMA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLSSS">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLSSS">
+        <MappingFragment StoreEntitySet="TBLSSS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SORU" ColumnName="SORU" />
+          <ScalarProperty Name="CEVAP" ColumnName="CEVAP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLYORUMLAR">
+      <EntityTypeMapping TypeName="MvcFotografModel.TBLYORUMLAR">
+        <MappingFragment StoreEntitySet="TBLYORUMLAR">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ADSOYAD" ColumnName="ADSOYAD" />
+          <ScalarProperty Name="YORUM" ColumnName="YORUM" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+          <ScalarProperty Name="RESIM" ColumnName="RESIM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

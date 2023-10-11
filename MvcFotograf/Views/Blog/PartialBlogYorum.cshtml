@@ -1,0 +1,25 @@
+﻿@using MvcFotograf.Models
+@model List<TBLBLOGYORUM>
+<div class="col-lg-6">
+    <h4>YORUMLAR</h4>
+        @foreach (var x in Model)
+        {
+
+            <div class="comment-item">
+                <div class="ci-pic">
+                    <img src="~/user.jpg" alt="">
+                </div>
+                <div class="ci-text">
+                    <h5>@x.ADSOYAD</h5>
+                    <p>
+                        @x.YORUM
+                    </p>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i> @Convert.ToDateTime(x.TARIH).ToString("dd.MM.yyyy")</li>
+
+                    </ul>
+                </div>
+            </div>
+
+        }
+    </div>

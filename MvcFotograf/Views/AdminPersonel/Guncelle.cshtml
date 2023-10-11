@@ -1,0 +1,92 @@
+﻿@model MvcFotograf.Models.TBLPERSONEL
+
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<link href="~/Content/toastr.min.css" rel="stylesheet" />
+<script src="~/Scripts/toastr.min.js"></script>
+
+<h2>PERSONEL GÜNCELLE</h2>
+
+@using (Html.BeginForm("Guncelle", "AdminPersonel", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+{
+
+    <div class="form-group">
+
+        @Html.LabelFor(x => x.ID)
+        @Html.TextBoxFor(x => x.ID, new { @class = "form-control", @readonly="readonly" })
+
+    </div>
+
+
+    <div class="form-group">
+
+        @Html.LabelFor(x => x.ADSOYAD)
+        @Html.TextBoxFor(x => x.ADSOYAD, new { @class = "form-control" })
+
+    </div>
+
+    <div class="form-group">
+
+        @Html.LabelFor(x => x.MESLEK)
+        @Html.TextBoxFor(x => x.MESLEK, new { @class = "form-control" })
+
+    </div>
+
+    <div class="form-group">
+
+        @Html.LabelFor(x => x.INSTAGRAM)
+        @Html.TextBoxFor(x => x.INSTAGRAM, new { @class = "form-control" })
+
+    </div>
+
+    <div class="form-group">
+
+        @Html.LabelFor(x => x.RESIM)
+
+        <input class="form-control"
+               id="resim"
+               type="file"
+               onchange="$('.resim')[0].src = window.URL.createObjectURL(this.files[0])"
+               name="GELENRESIM" />
+        <br />
+        <img class="resim"
+             width="250"
+             height="200"
+             style="border:1px solid red;"
+             src="~/Resimler/@Model.RESIM" />
+    </div>
+
+    <button class="btn btn-primary">GÜNCELLE</button>
+}
+
+@if (TempData["hata"] != null)
+{
+    <script>
+
+        toastr["error"]("Bir resim dosyası seçmelisiniz!!")
+
+        toastr.options = {
+            "closeButton": false,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": false,
+            "positionClass": "toast-top-right",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        }
+    </script>
+}
+

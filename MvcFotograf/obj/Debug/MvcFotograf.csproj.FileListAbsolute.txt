@@ -1,0 +1,783 @@
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\beyza\Desktop\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\Desktop\MVC FOTOGRAF FİNAL\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\Desktop\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\Desktop\projeler\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+D:\23.11.2022 SQL VE BAZI DOSYALAR\PROJELER\Beyzanın Projesi\MVC FOTOGRAF FİNAL (BEYZA AKBULUT)\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\source\repos\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\Desktop\MvcFotoğraf\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\source\repos\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll.config
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\MvcFotograf.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\MvcFotograf.pdb
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\csc.exe.config
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\csc.rsp
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\csi.exe.config
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\csi.rsp
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.AppContext.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Console.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Http.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Net.Sockets.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.ValueTuple.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\vbc.exe.config
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\vbc.rsp
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\EntityFramework.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\PagedList.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Razor.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\WebGrease.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\EntityFramework.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\EntityFramework.SqlServer.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Newtonsoft.Json.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\PagedList.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\PagedList.Mvc.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Helpers.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Mvc.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Optimization.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.Razor.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\System.Web.WebPages.Razor.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Antlr3.Runtime.pdb
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.AssemblyReference.cache
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CoreCompileInputs.cache
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.csproj.CopyComplete
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.dll
+C:\Users\frkng\OneDrive\Masaüstü\MvcFotograf\MvcFotograf\obj\Debug\MvcFotograf.pdb

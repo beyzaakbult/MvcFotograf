@@ -1,0 +1,63 @@
+﻿@model MvcFotograf.Models.TBLGALERI
+
+@{
+    ViewBag.Title = "GaleriEkle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<link href="~/Content/toastr.min.css" rel="stylesheet" />
+<script src="~/Scripts/toastr.min.js"></script>
+
+<h2>YENİ PERSONEL EKLE</h2>
+
+@using (Html.BeginForm("GaleriEkle", "AdminGaleri", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+{
+    
+    <div class="form-group">
+
+        @Html.LabelFor(x => x.RESIM)
+
+        <input class="form-control"
+               id="resim"
+               type="file"
+               onchange="$('.resim')[0].src = window.URL.createObjectURL(this.files[0])"
+               name="GELENRESIM"
+               required />
+        <br />
+        <img class="resim"
+             width="250"
+             height="200"
+             style="border:1px solid red;" />
+    </div>
+
+    <button class="btn btn-primary">EKLE</button>
+}
+
+@if (TempData["ekle"] != null)
+{
+    <script>
+
+        toastr["error"]("Bir resim dosyası seçmelisiniz!!")
+
+        toastr.options = {
+            "closeButton": false,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": false,
+            "positionClass": "toast-top-right",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        }
+    </script>
+}
+

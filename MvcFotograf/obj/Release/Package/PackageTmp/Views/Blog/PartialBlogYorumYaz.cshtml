@@ -1,0 +1,14 @@
+﻿@using MvcFotograf.Models
+@model List<TBLBLOGYORUM>
+<div class="col-lg-6">
+    <div class="leave-form">
+        <h4>Yorum Yap</h4>
+        <form action="~/Blog/PartialBlogYorumYaz" method="post">
+            <input name="BLOGID" value="@ViewBag.pid" hidden />
+            <input type="text" placeholder="Adınız Soyadınız" name="ADSOYAD">
+            <input type="text" placeholder="Email" name="EMAIL">
+            <textarea placeholder="Yorum" name="YORUM"></textarea>
+            <button type="submit" class="site-btn">GÖNDER</button>
+        </form>
+    </div>
+</div>

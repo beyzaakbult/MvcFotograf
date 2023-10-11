@@ -1,0 +1,43 @@
+﻿@using MvcFotograf.Models
+@model List<TBLGALERI>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_KullanıcıLayout.cshtml";
+}
+
+<!-- Portfolio Section Begin -->
+<br />
+<br />
+<br />
+
+<section class="portfolio-section portfolio-page spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title" style="margin-top:50px;">
+                    <h2>GALERİMİZ</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 p-0">
+                <div class="portfolio-filter">
+                    @foreach (var x in Model)
+                    {
+                        <div class="pf-item set-bg fashion" data-setbg="../GaleriResim/@x.RESIM">
+                            <a href="~/GaleriResim/@x.RESIM" class="pf-icon image-popup">
+                                <img src="~/ICON/icons8_zoom_in_5.ico" />
+                            </a>
+                        </div>
+                    }
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Portfolio Section End -->

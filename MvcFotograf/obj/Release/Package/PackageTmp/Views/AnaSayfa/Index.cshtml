@@ -1,0 +1,128 @@
+﻿@using MvcFotograf.Models
+@model Class1
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_KullanıcıLayout.cshtml";
+}
+
+
+<section class="hero-section">
+    <div class="hs-slider owl-carousel">
+        @foreach (var x in Model.sliderlistesi)
+        {
+            <div class="hs-item set-bg" data-setbg="../SlıderResimler/@x.RESIM">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="hs-text">
+                                <h2>@x.BASLIK</h2>
+                                <p>
+                                    @x.ACIKLAMA
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+
+    </div>
+</section>
+<!-- Services Section Begin -->
+<!-- Services Section End -->
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="blog-details-text">
+    <div class="bd-author">
+        <div class="avatar-pic" style="position:relative; top:-20px;">
+            <img src="~/Resimler/guıda.jpg" alt="" style="margin-bottom: 30px;">
+        </div>
+        <div class="avatar-text">
+            <h4>GUIDA DI VIAGGIO</h4>
+            <p>
+                Güneş,dünyanın her şehrinde benzersiz bir şekilde batıyor.Sadece bir kez tanıklık etmek için seyahat etmeye değer.
+            </p>
+            
+        </div>
+    </div>
+
+</div>
+<!-- Categories Section Begin -->
+<section class="categories-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="section-title">
+                    <h2>KATEGORİLER</h2>
+                    <p>
+
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="categories-slider owl-carousel">
+
+            @foreach (var x in Model.kategorılistesi)
+            {
+                <div class="cs-item">
+                    <div class="cs-pic set-bg" data-setbg="../KategoriResim/@x.RESIM"></div>
+                    <div class="cs-text">
+                        <h4>@x.ACIKLAMA</h4>
+
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</section>
+<br />
+<br />
+<br />
+<br />
+<!-- Categories Section End -->
+<!-- Services Option Section Begin -->
+<section class="services-option">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="section-title">
+                    <h2>SIKCA SORULAN SORULAR</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var x in Model.ssslistesi)
+            {
+                <div class="col-lg-6">
+                    <div class="so-item">
+                        <div class="so-title">
+                            <div class="so-number">@x.ID</div>
+                            <h5>@x.SORU</h5>
+                        </div>
+                        <p>
+                            @x.CEVAP
+                        </p>
+                    </div>
+
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<!-- Services Option Section End -->
+<!-- Testimoial Section Begin -->
+<!-- Testimonial Section End -->

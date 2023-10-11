@@ -1,0 +1,190 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Phozogy Template">
+    <meta name="keywords" content="Phozogy, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>GUIDA DI VIAGGIO</title>
+    <link rel="website icon" type="png" href="~/Resimler/guida.png" />
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Quantico:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/AnaTema/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/AnaTema/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/AnaTema/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/AnaTema/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/AnaTema/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="~/AnaTema/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/AnaTema/css/style.css" type="text/css">
+    <style>
+        .nav-menu {
+            width: 700px;
+        }
+            
+            .nav-menu ul li {
+                position: relative;
+                top: 40px;
+                float: left;
+                left:50px;
+                list-style:none;
+                width:auto;
+            }
+                .nav-menu ul li a {
+                    color: #009603;
+                    z-index: 1;
+                    padding: 10px;
+                }
+       .nav-menu ul li a:hover {
+            border-style: solid;
+            border-width:0px;
+            border-radius: 20px;
+            background-color: #009603;
+            color: white;
+            z-index: 0;
+            transition:1s;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Header Section Begin -->
+    <header class="header-section" style="background-color: white; position: fixed; width:100%; top: 0; z-index:1000;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="logo">
+                        <a href="/AnaSayfa/Index">
+                            <span style="color: #009603; font-size: 25px; font-family: Verdana;">GUIDA DI VIAGGIO</span>
+                        </a>
+                    </div>
+                    <nav class="nav-menu mobile-menu">
+                        <ul>
+                            <li class="active"><a href="/AnaSayfa/Index">ANA SAYFA</a></li>
+                            <li><a href="/Galeri/Index">GALERİ</a></li>
+                            <li><a href="/Blog/Index">BLOG</a></li>
+                            <li><a href="/Hakkımda/Index">HAKKIMDA</a></li>
+                            <li><a href="/Iletisim/Index">İLETİŞİM</a></li>
+                        </ul>
+                    </nav>
+
+                    <div style="color: #009603;" id="mobile-menu-wrap"></div>
+                </div>
+            </div>
+        </div>
+
+    </header>
+    <!-- Header End -->
+    <!-- Hero Section Begin -->
+    @RenderBody()
+    <!-- Hero Section End -->
+    <!-- Footer Section Begin -->
+    <footer class="footer-section"  >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="fs-about">
+                        <div class="fa-logo">
+                                <span style="color: #009603; font-size: 25px; font-family: Verdana;">GUIDA DI VIAGGIO</span>
+                            
+                        </div>
+                        <p>
+                            Güneş,dünyanın her şehrinde benzersiz bir şekilde batıyor.Sadece bir kez tanıklık etmek için seyahat etmeye değer.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <h5 style="color: #009603; font-family:Verdana;">SEKMELER</h5>
+                    <div class="fs-widget">
+                        <ul>
+                            <li><a href="/AnaSayfa/Index">ANA SAYFA</a></li>
+                            <li><a href="/Hakkımda/Index">HAKKIMDA</a></li>
+                            <li><a href="/Iletisim/Index">İLETİŞİM</a></li>
+                        </ul>
+                        <ul>
+
+                            <li><a href="/Galeri/Index">GALERİ</a></li>
+                            <li><a href="/Blog/Index">BLOG</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <h5 style="color: #009603; font-family:Verdana;">SOSYAL MEDYA</h5>
+                   
+                        <div class="fa-social">
+                            <a href="https://www.instagram.com/guida.di.viaggio/?hl=tr"><i class="fa fa-instagram"></i></a>
+                        </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <h5 style="color: #009603; font-family:Verdana;">İLETİŞİM BİLGİLERİ</h5>
+                    <div class="ct-item">
+                        <div class="ct-icon">
+                            <i style="color: #009603;" class="fa fa-map-marker"></i>
+                        </div>
+                        <div class="ct-text">
+                           
+                            <p style="color:white;">İZMİR</p>
+                        </div>
+                    </div>
+                    <div class="ct-item">
+                        <div class="ct-icon">
+                            <i style="color: #009603;" class="fa fa-envelope"></i>
+                        </div>
+                        <div class="ct-text">
+                           
+                            <p style="color:white;">beyzaakbulut49@gmail.com</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-12">
+                    <div class="copyright-text">
+                        <p>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;
+                            <script>document.write(new Date().getFullYear());</script> GUIDA DI VIAGGIO
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+    <!-- Search model Begin -->
+    <div class="search-model">
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            <div class="search-close-switch">+</div>
+            <form class="search-model-form">
+                <input type="text" id="search-input" placeholder="Search here.....">
+            </form>
+        </div>
+    </div>
+    <!-- Search model end -->
+    <!-- Js Plugins -->
+    <script src="~/AnaTema/js/jquery-3.3.1.min.js"></script>
+    <script src="~/AnaTema/js/bootstrap.min.js"></script>
+    <script src="~/AnaTema/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/AnaTema/js/isotope.pkgd.min.js"></script>
+    <script src="~/AnaTema/js/masonry.pkgd.min.js"></script>
+    <script src="~/AnaTema/js/jquery.slicknav.js"></script>
+    <script src="~/AnaTema/js/owl.carousel.min.js"></script>
+    <script src="~/AnaTema/js/main.js"></script>
+</body>
+
+</html>

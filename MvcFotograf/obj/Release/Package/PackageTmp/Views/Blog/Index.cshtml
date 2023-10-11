@@ -1,0 +1,39 @@
+﻿@using MvcFotograf.Models
+@model List<TBLBLOG>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_KullanıcıLayout.cshtml";
+}
+
+
+
+<!-- Blog Section Begin -->
+<br />
+<br />
+<section class="blog-section spad">
+    <div class="container" style="margin-top:100px;">
+        <div class="row">
+            <div class="col-lg-9">
+                @foreach (var x in Model)
+                {
+                    <div class="blog-item">
+                        <div class="bi-pic">
+                            <img src="~/Resimler/@x.RESIM" alt="" height="160" width="220">
+                        </div>
+                        <div class="bi-text">
+                            <h5>
+                                <a href="~/Blog/BlogDetay/@x.ID">@x.BASLIK</a>
+                            </h5>
+                            <p>
+                                @x.ICERIK.Substring(0, 150)
+                            </p>
+                        </div>
+                    </div>
+                }
+
+            </div>
+            
+        </div>
+    </div>
+</section>
+<!-- Blog Section End -->

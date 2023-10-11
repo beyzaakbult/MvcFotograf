@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MvcFotografModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TBLADMIN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KULLANICIADI" Type="nvarchar" MaxLength="50" />
+    <Property Name="EMAIL" Type="nvarchar" MaxLength="50" />
+    <Property Name="SIFRE" Type="nvarchar" MaxLength="50" />
+    <Property Name="ADSOYAD" Type="nvarchar" MaxLength="50" />
+    <Property Name="CINSIYET" Type="char" MaxLength="5" />
+    <Property Name="YASADIGISEHIR" Type="nvarchar" MaxLength="200" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+    <Property Name="YETKİ" Type="bit" />
+  </EntityType>
+  <EntityType Name="TBLBLOG">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BASLIK" Type="nvarchar(max)" />
+    <Property Name="ICERIK" Type="nvarchar(max)" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLBLOGYORUM">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BLOGID" Type="int" />
+    <Property Name="ADSOYAD" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="EMAIL" Type="nvarchar(max)" />
+    <Property Name="TARIH" Type="smalldatetime" />
+    <Property Name="YORUM" Type="nvarchar(max)" />
+    <Property Name="DURUM" Type="bit" />
+  </EntityType>
+  <EntityType Name="TBLGALERI">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RESIM" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TBLHAKKIMIZDA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BASLIK" Type="nvarchar(max)" />
+    <Property Name="ICERIK" Type="nvarchar(max)" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLILETISIM">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ADRES" Type="nvarchar(max)" />
+    <Property Name="TELEFON" Type="nvarchar" MaxLength="11" />
+    <Property Name="EMAIL" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLKATEGORI">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ACIKLAMA" Type="nvarchar(max)" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLPERSONEL">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ADSOYAD" Type="nvarchar(max)" />
+    <Property Name="MESLEK" Type="nvarchar(max)" />
+    <Property Name="INSTAGRAM" Type="nvarchar(max)" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLPROJE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PROJEADI" Type="nvarchar(max)" />
+    <Property Name="PROJEOZET" Type="nvarchar(max)" />
+    <Property Name="PROJE" Type="nvarchar(max)" />
+    <Property Name="TARIH" Type="smalldatetime" />
+    <Property Name="OKUNMASAYISI" Type="int" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLSLIDER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+    <Property Name="BASLIK" Type="nvarchar(max)" />
+    <Property Name="ACIKLAMA" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLSSS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SORU" Type="nvarchar(max)" />
+    <Property Name="CEVAP" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TBLYORUMLAR">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ADSOYAD" Type="nvarchar(max)" />
+    <Property Name="YORUM" Type="nvarchar(max)" />
+    <Property Name="DURUM" Type="bit" />
+    <Property Name="RESIM" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_TBLBLOGYORUM_TBLBLOG">
+    <End Role="TBLBLOG" Type="Self.TBLBLOG" Multiplicity="0..1" />
+    <End Role="TBLBLOGYORUM" Type="Self.TBLBLOGYORUM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLBLOG">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLBLOGYORUM">
+        <PropertyRef Name="BLOGID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MvcFotografModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLADMIN" EntityType="Self.TBLADMIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLBLOG" EntityType="Self.TBLBLOG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLBLOGYORUM" EntityType="Self.TBLBLOGYORUM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLGALERI" EntityType="Self.TBLGALERI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLHAKKIMIZDA" EntityType="Self.TBLHAKKIMIZDA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLILETISIM" EntityType="Self.TBLILETISIM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLKATEGORI" EntityType="Self.TBLKATEGORI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLPERSONEL" EntityType="Self.TBLPERSONEL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLPROJE" EntityType="Self.TBLPROJE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLSLIDER" EntityType="Self.TBLSLIDER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLSSS" EntityType="Self.TBLSSS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLYORUMLAR" EntityType="Self.TBLYORUMLAR" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_TBLBLOGYORUM_TBLBLOG" Association="Self.FK_TBLBLOGYORUM_TBLBLOG">
+      <End Role="TBLBLOG" EntitySet="TBLBLOG" />
+      <End Role="TBLBLOGYORUM" EntitySet="TBLBLOGYORUM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
